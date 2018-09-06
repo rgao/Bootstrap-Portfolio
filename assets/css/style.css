@@ -23,23 +23,46 @@ ul {
     margin-bottom: 80px;
 }
 
+footer {
+    color: #ffffff;
+    background-color: #666666;
+    height: 56px;
+}
+
 h2 {
     color: #4aaaa5;
     font-size: 24px;
 }
 
-img {
+/* index.html specific code */
+
+.selfie {
     float: left;
     width: 320px;
     height: auto;
 }
 
-button {
-    margin-bottom: 10px;
+/* portfolio.html specific code */
+
+.portfolioimg {
+    border: 2px solid blue;
 }
 
-footer {
+.imgtext {
+    position: absolute;
+    bottom: 10px;
+    width: 90%;
+    background-color: #4aaaa5;
     color: #ffffff;
-    background-color: #666666;
-    height: 56px;
+}
+
+.imgname {
+    font-size: 14px;
+    padding: 3px 0px;
+}
+
+/* contact.html specific code */
+
+button {
+    margin-bottom: 10px;
 }
