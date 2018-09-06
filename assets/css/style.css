@@ -20,7 +20,7 @@ ul {
     max-width: 960px;
     background-color: #ffffff;
     border: 2px solid #dddddd;
-    /* overflow: auto; */
+    margin-bottom: 80px;
 }
 
 h2 {
@@ -41,5 +41,5 @@ button {
 footer {
     color: #ffffff;
     background-color: #666666;
-    z-index: -10;
+    height: 56px;
 }
