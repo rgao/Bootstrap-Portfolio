@@ -45,13 +45,14 @@ h2 {
 /* portfolio.html specific code */
 
 .portfolioimg {
+    width: 100%;
     border: 2px solid blue;
 }
 
 .imgtext {
     position: absolute;
     bottom: 10px;
-    width: 90%;
+    width: 100%;
     background-color: #4aaaa5;
     color: #ffffff;
 }
