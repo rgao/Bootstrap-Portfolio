@@ -45,7 +45,7 @@ h2 {
 
 .portfolioimg {
     width: 100%;
-    border: 2px solid blue;
+    border: 3px double blue;
 }
 
 .imgtext {
@@ -57,8 +57,13 @@ h2 {
 }
 
 .imgname {
-    font-size: 14px;
-    padding: 3px 0px;
+    font-size: 18px;
+    font-family: "Impact";
+    padding: 5px 0px;
+}
+
+#RPG {
+    border: 3px double green;
 }
 
 /* contact.html specific code */
